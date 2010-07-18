@@ -47,7 +47,7 @@ Publish:
 
 ## Apps that use Sparkler
 
- - [CouchDBX][http://www.couch.io/get] (recursion alert)
+ - [CouchDBX](http://www.couch.io/get) (recursion alert)
 
 
 ## Copyright
