@@ -1,0 +1,1 @@
+create with `ruby vendor/sparkle/sign_update.rb YourApp.zip dsa_priv.pem`

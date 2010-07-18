@@ -1,0 +1,10 @@
+[
+  {
+    "from": "cast",
+    "to": "_list/cast/releases"
+  },
+  {
+    "from": "release/:id",
+    "to": "_show/release/:id"
+  }
+]
