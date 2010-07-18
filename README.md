@@ -14,11 +14,13 @@ Spakler is for you.
 
 Requires [CouchApp][] and CouchDB. A good way to get a hosted CouchDB instance
 is <http://www.couch.io/get>, but this will run in any custom CouchDB 0.11
-or1.0 or later.
+or 1.0 or later.
 
     $ sudo easy_install -U couchapp
 
 [CouchApp]: http://github.com/couchapp/couchapp
+
+Quickstart:
 
     $ git clone git://github.com/janl/sparkler.git
     $ cd sparkler
