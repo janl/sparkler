@@ -20,10 +20,11 @@ or1.0 or later.
 
 [CouchApp]: http://github.com/couchapp/couchapp
 
-   $ git clone git://github.com/janl/sparkler.git
-   $ cd sparkler
-   # edit / update _docs/<version>
-   $ couchapp push . http://url-to-your-couchdb/database
+    $ git clone git://github.com/janl/sparkler.git
+    $ cd sparkler
+    $ couchapp init
+    # edit / update _docs/<version>
+    $ couchapp push . http://url-to-your-couchdb/database
 
 Set `SUFeedUrl` in your `Info.plist` to `https://yourhost/yourdatabase/_design/appcast/_rewrite/cast`
 
